@@ -13,7 +13,7 @@
     "element-ui": "^2.7.2",
     "js-cookie": "^2.2.0",
     "mockjs": "^1.0.1-beta3",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "normalize.css": "^8.0.1",
     "sass-loader": "^7.1.0",
     "vee-validate": "^2.2.3",
